@@ -1,0 +1,4 @@
+июн. 05, 2023 9:19:35 PM Seminar2.Task2 write
+INFO: Длина повторяемой строки равна400
+июн. 05, 2023 9:19:35 PM Seminar2.Task2 write
+INFO: Записано
