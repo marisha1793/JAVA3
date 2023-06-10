@@ -11,14 +11,14 @@ public class HW4Task2 {
     public static void main(String[] args) {
         LinkedList<Integer> list = new LinkedList<>();
         for (int i = 0; i < 10; i++) {
-            enqueue(list, getRandomNumber()); //заполняем случайными числами
+            enqueue(list, getRandomNumber());
         }
         System.out.println(list);
 
-        System.out.println(dequeue(list)); // удалили первый элемент
+        System.out.println(dequeue(list));
         System.out.println(list);
 
-        System.out.println(first(list)); // вывели первый элемент
+        System.out.println(first(list));
         System.out.println(list);
     }
 
